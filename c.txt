@@ -1,0 +1,6 @@
+kh2, tcc, 3
+kh3, ctdl, 3
+kh4, hcsdl, 4
+kh5, oop, 3
+kh6, bigdata, 4
+kh7, python, 3
